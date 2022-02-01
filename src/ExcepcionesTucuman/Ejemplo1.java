@@ -13,6 +13,8 @@ public class Ejemplo1 {
           
     public static void main(String[] args)  {
       
+      System.out.println("Actualizando el proyecto");
+      
       try {
         System.out.println("Ingrese un divisor");
         Integer numero = pepe.nextInt();
